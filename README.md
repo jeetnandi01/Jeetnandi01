@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeetnandi01&label=Profile%20views&color=0e75b6&style=flat" alt="jeetnandi01" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeetnandi01" alt="jeetnandi01" /></a> </p>
-
 - 🌱 I’m currently learning **Machine Learning & Artifical Intelligence Etc.**
 
 - 💬 Ask me about **Java,Python,Flutter,SQL Etc.**
